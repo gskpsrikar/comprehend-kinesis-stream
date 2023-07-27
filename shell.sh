@@ -1,0 +1,2 @@
+# aws cloudformation create-stack --stack-name NewsStreamStack --template-body file://cloud_formation.yaml --capabilities CAPABILITY_NAMED_IAM
+# aws cloudformation delete-stack --stack-name NewsStreamStack
