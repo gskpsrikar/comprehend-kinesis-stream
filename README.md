@@ -1,2 +1,4 @@
-# comprehend-kinesis-stream
-Stream text data into Amazon Kinesis and process with Amazon Comprehend
+# Repository: comprehend-kinesis-stream
+Stream text data into Amazon Kinesis Data Streams and process with Amazon Comprehend.
+
+

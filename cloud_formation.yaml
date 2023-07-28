@@ -25,6 +25,7 @@ Resources:
         - "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole"
         - "arn:aws:iam::aws:policy/AmazonKinesisFullAccess"
         - "arn:aws:iam::aws:policy/ComprehendFullAccess"
+        - "arn:aws:iam::aws:policy/service-role/AWSLambdaKinesisExecutionRole"
 
   S3BucketRaw:
     Type: "AWS::S3::Bucket"
