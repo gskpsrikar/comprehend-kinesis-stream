@@ -6,7 +6,7 @@ Resources:
     Type: "AWS::Kinesis::Stream"
     Properties:
       Name: "news-stream"
-      ShardCount: 1
+      ShardCount: 2
 
   NewsStreamLambdaExecutionRole:
     Type: "AWS::IAM::Role"
